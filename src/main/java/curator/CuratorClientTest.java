@@ -69,4 +69,6 @@ public class CuratorClientTest {
     //测试3
     
     //测试4
+    
+  //测试5
 }
