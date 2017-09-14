@@ -4,6 +4,10 @@ import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.apache.curator.retry.RetryNTimes;
 
+/**
+ *
+ * Curator节点增删改测试
+ */
 public class CuratorClientTest {
 
     /** Zookeeper info */

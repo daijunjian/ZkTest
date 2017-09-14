@@ -8,7 +8,7 @@ import org.apache.curator.retry.RetryNTimes;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Curator framework's distributed lock test.
+ * 分布式锁测试
  */
 public class CuratorDistrLockTest {
 
