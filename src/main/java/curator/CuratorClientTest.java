@@ -63,5 +63,7 @@ public class CuratorClientTest {
                     ? new String((byte[]) result)
                         : result);
     }
+    
+    //测试git
 
 }
