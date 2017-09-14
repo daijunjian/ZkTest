@@ -1,4 +1,4 @@
-package zk;
+package zkClient;
 
 import com.alibaba.fastjson.JSON;
 import org.I0Itec.zkclient.ZkClient;

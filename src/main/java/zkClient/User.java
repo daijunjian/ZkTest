@@ -1,4 +1,4 @@
-package zk;
+package zkClient;
 
 import java.io.Serializable;
 

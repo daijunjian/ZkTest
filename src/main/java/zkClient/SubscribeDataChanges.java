@@ -1,4 +1,4 @@
-package zk;
+package zkClient;
 
 import org.I0Itec.zkclient.IZkDataListener;
 
